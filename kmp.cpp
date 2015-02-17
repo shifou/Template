@@ -1,3 +1,4 @@
+// can be used for leetcode problem Implement strStr()
 #include <iostream>
 #include <stdio.h>
 #include <string.h>
